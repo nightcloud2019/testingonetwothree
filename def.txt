@@ -21,4 +21,7 @@ re
 tgdfgfrad
 hello server!
 asdfg
+<<<<<<< HEAD
 asdfsdafsadf
+=======
+>>>>>>> 8d1d2f2155acffa65dd71f1534a93e5f87b22050
